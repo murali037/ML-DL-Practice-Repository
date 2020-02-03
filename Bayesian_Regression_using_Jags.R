@@ -1,4 +1,5 @@
 # Linear Regression In JAGs and then compare it with Least Squares Method
+# Author: Murali Manohar
 
 
 dat   <- read.csv("http://www4.stat.ncsu.edu/~reich/ST590/assignments/Obama2012.csv")
